@@ -1,3 +1,4 @@
+01-06-2024 Conocimientos básicos de Powershell
 31-05-2024 Introduccion a Domain Name System
 30-05-2024 Algoritmos de cifrado y registros de sshd
 29-05-2024 Certificados del navegador, cifrado de contraseñas y salts
