@@ -1,4 +1,5 @@
-04-06-2024 Added encryption to password manager
+04-06-2024 Implementing SQLite in Go
+4-06-2024 Added encryption to password manager
 03-06-2024 Cryptography basics and started new go project
 02-06-2024 Basic use of OpenBSD
 01-06-2024 Powershell basics
