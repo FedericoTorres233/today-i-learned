@@ -1,3 +1,4 @@
+05-06-2024 Implementación de SQLite en Go
 04-06-2024 He añadifo cifrado al gestor de contraseñas
 03-06-2024 Conocimientos básicos de criptografía y nuevo proyecto en go
 02-06-2024 Uso básico de OpenBSD
