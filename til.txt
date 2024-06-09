@@ -1,3 +1,4 @@
+09-06-2024 Go concurrency
 06-06-2024 IAAA Model
 05-06-2024 Implementing SQLite in Go
 04-06-2024 Added encryption to password manager
