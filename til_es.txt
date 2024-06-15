@@ -1,3 +1,4 @@
+15-06-2024 Configuración de DNS
 11-06-2024 Inodes en linux
 09-06-2024 Concurrencia en Go
 06-06-2024 El modelo IAAA en ciberseguridad
