@@ -1,4 +1,5 @@
-17-06-2024 Firewall setup in OpenBSD
+18-06-2024 SSH Key commands
+17-06-2024 Firewall setup on OpenBSD
 15-06-2024 DNS setup
 11-06-2024 Linux inodes
 09-06-2024 Go concurrency
