@@ -1,3 +1,4 @@
+20-06-2024 Basic use of ssh keys and gpg
 18-06-2024 SSH Key commands
 17-06-2024 Firewall setup on OpenBSD
 15-06-2024 DNS setup
