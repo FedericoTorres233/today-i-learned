@@ -1,3 +1,4 @@
+23-06-2024 Nslookup and DNS records
 21-06-2024 Diffie Hellman Key Exchange
 20-06-2024 Basic use of ssh keys and gpg
 18-06-2024 SSH Key commands
