@@ -1,4 +1,5 @@
-24-06-2024 Number systems
+25-06-2024 Registers and instructions in Assembly
+24-06-2024 Number systems and binary operations
 23-06-2024 Nslookup and DNS records
 21-06-2024 Diffie Hellman Key Exchange
 20-06-2024 Basic use of ssh keys and gpg
