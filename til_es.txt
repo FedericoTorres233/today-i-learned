@@ -1,4 +1,5 @@
-24-06-2024 Sistemas de numeración
+25-06-2024 Registros e instrucciones en Assembly
+24-06-2024 Sistemas de numeración y operaciones binarias
 23-06-2024 Nslookup y registros DNS
 21-06-2024 Intercambio de claves usando el protocolo Diffie Hellman
 20-06-2024 Uso básico de claves ssh y gpg
