@@ -1,3 +1,4 @@
+26-06-2024 Conceptos básicos de inyecciones SQL
 25-06-2024 Registros e instrucciones en Assembly
 24-06-2024 Sistemas de numeración y operaciones binarias
 23-06-2024 Nslookup y registros DNS
