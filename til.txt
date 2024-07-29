@@ -1,3 +1,6 @@
+29-07-2024 Ssh public key auth and ssh-copy-id
+28-07-2024 Scp and rsync
+27-07-2024 Types of terminals (tty, pts, pty)
 17-07-2024 Mount options
 16-07-2024 IO redirection and file descriptors
 12-07-2024 Qemu/KVM installation and usage
