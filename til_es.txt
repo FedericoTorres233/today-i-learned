@@ -1,3 +1,5 @@
+02-09-2024 Visudo y administración de usuarios
+30-08-2024 Algoritmos de planificador (sistemas operativos)
 29-07-2024 Autenticación ssh con llave pública y ssh-copy-id
 28-07-2024 Comandos scp y rsync
 27-07-2024 Tipos de terminales (tty, pts, pty)
