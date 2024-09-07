@@ -1,3 +1,4 @@
+06-09-2024 Optiones de makefile
 02-09-2024 Visudo y administración de usuarios
 30-08-2024 Algoritmos de planificador (sistemas operativos)
 29-07-2024 Autenticación ssh con llave pública y ssh-copy-id
