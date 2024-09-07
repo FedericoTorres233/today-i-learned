@@ -1,3 +1,4 @@
+06-09-2024 Makefile options
 02-09-2024 Visudo and user management
 30-08-2024 Scheduler algorithms
 29-07-2024 Ssh public key auth and ssh-copy-id
