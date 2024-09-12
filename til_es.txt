@@ -1,3 +1,5 @@
+11-09-2024 Operaciones de archivos en python
+10-09-2024 Variables de clase y métodos estáticos en python
 07-09-2024 Decoradores en python
 06-09-2024 Optiones de makefile
 02-09-2024 Visudo y administración de usuarios
