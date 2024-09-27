@@ -1,3 +1,5 @@
+26-09-2024 Introducción a Active Directory
+24-09-2024 Comandos de network manager
 11-09-2024 Operaciones de archivos en python
 10-09-2024 Variables de clase y métodos estáticos en python
 07-09-2024 Decoradores en python
